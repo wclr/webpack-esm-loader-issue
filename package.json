@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "name": "webpack-esm-loader-issue",
+  "dependencies": {
+    "webpack": "^5.73.0"
+  }
+}
